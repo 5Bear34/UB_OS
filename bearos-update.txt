@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 7.3
+code    = 70300
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2176032
+sha256  = bfb81ab5c8085dce30a6874c5dde9f9b1a41b7168a3db2596bae88e534f6c3da
+notes   = Pictures in the browser (YouTube thumbnails, photos), a new start page and BearOS Search with All, Images, Videos, News and Shopping, search boxes on web pages work, Esc closes Video and Remote.
