@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 7.4
-code    = 70400
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2196304
-sha256  = 077a81e398dcd211703bef74530747febe0a3a6d79cdef3bff67b805f1ac134c
-notes   = Battery support for PiSugar 3 and 2: charge in the menu bar, Low Power Mode (on by itself at 20%), screen off when idle on battery, the PiSugar button, warnings and a safe shutdown at 5%. Notifications now actually appear.
