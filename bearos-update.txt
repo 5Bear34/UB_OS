@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 7.1
+code    = 70100
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2113696
+sha256  = 0b6b2fa7030e3a6184d3c26ca671c4bc31fd4d10b5b9716b2e4ff2b77d46d4a4
+notes   = Updates now come from the UB_OS repository by themselves
