@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 7.2
+code    = 70200
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2113696
+sha256  = b21d7449629bd21b68ac29c8ae5715bfd7fc2cf23a5f4f08d128c9f9eb6369a0
+notes   = Remote: the page now moves when you click, type and scroll (it froze when text was larger than 100%). Typing words in Remote's address bar on YouTube searches YouTube.
