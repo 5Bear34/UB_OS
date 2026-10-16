@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 7.1
-code    = 70100
-url     = https://github.com/YOUR-NAME/bearos/releases/download/v7.1/kernel8-rpi4.img
-size    = 2114000
-sha256  = 25b65c67a156b26d5c71e1a711e1c665df81167452d056b3a10dae4b9f694737
-notes   = Faster Wi-Fi and bug fixes
