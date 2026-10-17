@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 7.4.2
-code    = 70402
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2203744
-sha256  = 8aebd23df4cf01ab8e4350ea73639edb4d8b610d94f29b36452d2b84a042a24e
-notes   = Battery: if the Pi's I2C controller gets no answer, BearOS talks to the PiSugar by driving the pins directly. Settings > Battery shows what answers both ways.
