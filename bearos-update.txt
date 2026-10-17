@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 7.4.1
-code    = 70401
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2199200
-sha256  = 56f2b414466a33305a6bb7c17d231c28dda076d048de0d7d030c310ae8f151ae
-notes   = Battery: a second way of reading the PiSugar 2, and Settings > Battery now lists what answers on the I2C pins when no battery is found.
