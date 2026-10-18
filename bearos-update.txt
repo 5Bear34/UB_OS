@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 7.7.2
-code    = 70702
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2251832
-sha256  = 9a8a1089ab0cd5c0bc1f4f8b3c1b8130b387fc034cda9eecbd7b2b254ebd61f3
-notes   = Browser: the arrow keys choose every link in order (left works), Back returns to your place, links to pictures and files open properly, typing goes into the search box
