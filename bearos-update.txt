@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 7.7.4
+code    = 70704
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2257352
+sha256  = d02e1f73f98befdc7014000609d8bd92d0f85ebbc7e6abbe6d013faeaea2cbd6
+notes   = Settings > Sound: choose HDMI or the headphone jack, volume, and a test sound
