@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 7.7.1
+code    = 70701
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2249048
+sha256  = c3c07fb455992bd36c2188e0080117c530931cb867f97fe0528480549d904ad6
+notes   = Fixes searching from the BearOS Search box (it looked up a site called %*s)
