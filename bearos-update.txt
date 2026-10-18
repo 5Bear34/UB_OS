@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.1
+code    = 80100
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2420864
+sha256  = 676c5ad4a3a8030ce3b77839fcb0835e015c0f814e47f6dd8ae5d341c5609cbc
+notes   = Videos: when YouTube asks if you are a robot, BearOS tries three more of YouTube's own apps, and offers R to try again or W to watch in the Remote Browser. Quick answers above search results (conversions, sums, percentages, time, facts). Amazon Lite, and a simple view of heavy pages.
