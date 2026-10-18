@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 7.7
-code    = 70700
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2248968
-sha256  = efebb3a71cb795d8dad035dd7ed14d34325209b4314e99c282bc71bed80fe1e2
-notes   = Pictures: open JPEG and PNG in Files, set your own desktop picture, right-click to save pictures and files from the Browser into Downloads
