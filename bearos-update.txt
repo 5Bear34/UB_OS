@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 8.0.1
-code    = 80001
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2358160
-sha256  = a41af98ed4a7102ac8931ced0620458a7442940c0a06a58551c9435d79751aac
-notes   = A website or search that answers busy (error 503) is asked again automatically, and once more as an ordinary browser; clear explanations and a Try Again button when a page still does not load.
