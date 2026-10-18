@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 8.0
-code    = 80000
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2354528
-sha256  = a7c313f4526763d58a6a67c990e29c4d5ece114504374c3c967ef22ee97c0013
-notes   = Files works like the Finder: copy, cut, paste, Duplicate, a Trash with Put Back, sorting and dates, Get Info, Quick Look. Copy and paste and undo everywhere. Spotlight finds files. Browser History and Downloads pages. Paint undo and Save.
