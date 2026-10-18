@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 7.4.3
-code    = 70403
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2206160
-sha256  = 8b04e7921b7de92e37bd097012a27822b382e8f77f7c7267c0adb76dc914b0ec
-notes   = Battery: a pin check on Settings > Battery and in the log shows whether BearOS can move the I2C lines, or whether one is held low.
