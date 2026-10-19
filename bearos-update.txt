@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 8.4
-code    = 80400
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2571072
-sha256  = 472796b48017cb190a3a55bef9b36884b05d4d76959de2cd905424541c75c8a7
-notes   = BearOS 8.4: Messages is a chat app (chat with anyone by email); WhatsApp, Telegram and texts through the Remote Browser
