@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.7.2
+code    = 80702
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 3603520
+sha256  = 20e4c6cc0c7211891edb6ae00871239ca8f49d5628d6db7fe33c3f27a4d3f7ba
+notes   = 8.7.2: YouTube asked as a Samsung TV (yt-dlp's October fix), then the embedded player; cookie header bug fixed; player code 35% faster, with a seconds counter.
