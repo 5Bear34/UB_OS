@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.7
+code    = 80700
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 3396992
+sha256  = b283dce1424a469ccde6d32d3cfe648148b4af654c012973e6f5dc94859f15cc
+notes   = 8.7: YouTube's player code runs on the Pi (QuickJS) to unlock videos through YouTube's TV app - switch in Settings > Browser > YouTube. Normal videos no longer called live streams.
