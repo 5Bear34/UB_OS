@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.5.1
+code    = 80501
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2576176
+sha256  = 360d8c707c03ec55255395dd0d871201f5b1ef91fb18289e1ab3a961dd468dde
+notes   = BearOS 8.5.1: fixes keys being lost (the lock screen could not be typed into) in 8.5
