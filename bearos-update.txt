@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 8.3
-code    = 80300
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 2535856
-sha256  = 5b9d9b293283ae35483174fe5fcf0d984e25c22e629bd2b9cbb6ab655fdc48b2
-notes   = BearOS 8.3: Mail (Gmail, Yahoo) and Messages (WhatsApp, texts, Telegram via the Remote Browser)
