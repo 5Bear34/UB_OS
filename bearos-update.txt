@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 8.7.1
-code    = 80701
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 3401824
-sha256  = 472fcb0020d52c2d491b0c8cca23163005b67aa3def2462b3a1b19d406a29421
-notes   = 8.7.1: the YouTube TV app route opens YouTube's TV page first and sends back its settings and cookies, as a real TV does.
