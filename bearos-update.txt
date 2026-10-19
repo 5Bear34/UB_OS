@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.2
+code    = 80200
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2425504
+sha256  = 2dd879b4c5bc887eb8cf6160ed36092f79e69b0edeac271187882cf1bd2b053b
+notes   = Fixes the trail left while scrolling and the pointer lag: the screen no longer redraws itself endlessly, pages scroll by moving pixels, link hovers redraw only the link, mouse moves are merged.
