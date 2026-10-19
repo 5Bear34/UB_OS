@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.5.2
+code    = 80502
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2583648
+sha256  = 17668c13da0957b271b38cbcd2a366d0951aacef364e6df93ce21854baa2cc9c
+notes   = BearOS 8.5.2: when YouTube asks for robot proof, videos come through a YouTube mirror instead
