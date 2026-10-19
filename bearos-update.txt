@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.6.1
+code    = 80601
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2589536
+sha256  = d8b4a2a3b4d4b187d4fa8c0c9c76d65162999793b2e4c6ddbc75a0d0f232dd2a
+notes   = BearOS 8.6.1: YouTube's visitor ID found (and asked for in more ways); newer iPhone app version
