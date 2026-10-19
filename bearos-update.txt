@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.8
+code    = 80800
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 3613024
+sha256  = 56039db4ae5669c97bde82d98d58e2166ead4820ddc73c238c78ad48b547a55f
+notes   = 8.8: sign in to YouTube with a cookies file on the SD card (when YouTube asks every app to prove it is no robot) - see the READ-ME.
