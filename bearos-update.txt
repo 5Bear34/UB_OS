@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.5
+code    = 80500
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2576144
+sha256  = e62c727a5c639b47eafbf3a30ab6b7151e0a5d8e43323f3ac50b1f3daaae9478
+notes   = BearOS 8.5: Mail and Messages stay signed in (faster) and get new messages at once
