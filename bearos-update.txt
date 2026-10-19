@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.6
+code    = 80600
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 2589056
+sha256  = 024b7a3705102b08fb1784736b35ab14f2aa5191a586d3a904574d0d0229c631
+notes   = BearOS 8.6: YouTube asks with a visitor ID like YouTube's own apps, falls back to mirrors, and D saves a video to the card
