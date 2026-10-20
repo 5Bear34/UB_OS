@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.0.3
-code    = 100300
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4594504
-sha256  = f26f7317ea49f50947181e55eaaf88e599c4ea8b5ceee6f65f18bfee11593581
-notes   = 1.0.3: YouTube playing is back to the exact code of 8.9.2 (the version where it last worked); everything else from 1.0 stays
