@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 1.0.1
+code    = 100100
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 4600168
+sha256  = 2c7cecb244e9b5403be2563f08847dde792e894f502353dac4267308438660c5
+notes   = 1.0.1: when YouTube refuses a video's file (error 403), BearOS asks again as another YouTube app and carries on from the same place
