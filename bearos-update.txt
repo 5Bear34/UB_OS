@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 1.0.5
+code    = 100500
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 4606128
+sha256  = 2ea9c5dd77916ebff2df0418ffd505149bf23e37f9232eae597193b3c5ac9dd2
+notes   = 1.0.5: the Pi asks your PC for the YouTube sign-in at the Remote's address first, keeps asking at each video until the PC answers, and gives up on a PC that is off after 15 s
