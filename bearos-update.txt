@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 8.9
-code    = 80900
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4361880
-sha256  = 60294e4e5f948b6b284b356ab06b316ff5926472de9627cdc1bdbc784ac6890d
-notes   = 8.9: FFmpeg's H.264 decoder - YouTube's Main-profile videos now show their picture (it was black).
