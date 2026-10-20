@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 8.9.2
-code    = 80902
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4568280
-sha256  = 25c22346e7b60c54ada17df4134f7885fa3316088f139136c8a58143e347cdd0
-notes   = 8.9.2: videos no longer freeze on the first picture when the sound output is not playing - they carry on silently.
