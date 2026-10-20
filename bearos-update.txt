@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.0.4
-code    = 80903
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4575192
-sha256  = 894f3d8221f1884e0b4cdffee83e95d019dcfba223af24fae20447ba04f3fc33
-notes   = 8.9.3: every keyboard and mouse work at once (a keyboard with a built-in mouse plus an external mouse); video pictures decoded ahead on the background core so playback stays smooth
