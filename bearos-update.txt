@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 8.9.1
+code    = 80901
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 4568088
+sha256  = 64494ef09e3863386811bd7614b7fd806894883a2361f0e2fad11c013c3badfa
+notes   = 8.9.1: two built-in test videos and a picture report in the Debug Log, to find out why YouTube's picture stays black.
