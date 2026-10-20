@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.0.4
-code    = 100400
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4605856
-sha256  = 4660c6e96dc09c4249198350c864b75a235b2ed3f6b34c31d54b3534bd23d596
-notes   = 1.0.4: the YouTube sign-in comes fresh from your PC (BearRemote) by itself; a signed-in copy YouTube refuses (403) is asked for again with a fresh sign-in, else without one; cookies YouTube says to throw away are dropped
