@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 1.0.2
+code    = 100200
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 4600280
+sha256  = ba1cda09de2ee32a305634f7f91ed752745ca71ced1944c7dd84897fea695846
+notes   = 1.0.2: videos download a piece at a time again (1.0 asked for the whole rest at once, and some servers then never said how big the file was); the Debug Log names the YouTube app whose copy is playing or was refused
