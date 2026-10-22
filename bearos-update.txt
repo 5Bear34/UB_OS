@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.0.6
-code    = 100600
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4608544
-sha256  = efd2a357aa1cd69bbcfc816b23ac18ff46355cb84c60fd9131423846a492b145
-notes   = 1.0.6: Settings > Browser has 'Ask your PC now' for the YouTube sign-in and shows what happened as it happens; every step of asking the PC is in the Debug Log (Warnings)
