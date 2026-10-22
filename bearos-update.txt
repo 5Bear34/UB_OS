@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.0.7
-code    = 100700
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4644544
-sha256  = 609d41d904bd273431e6e9eb2ee6f8158866f724317581662ce6f98285e74c01
-notes   = 1.0.7: YouTube videos that only come in pieces (HLS) now play; a refused (403) file switches to the pieces by itself
