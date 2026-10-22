@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.0.8
-code    = 100800
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4645112
-sha256  = a7a6ea83ca889d896bfef372034e0d22b42342c72019f0ca41a5c2accfbd22a8
-notes   = 1.0.8: the headphone jack is checked, and fed by BearOS itself when the Pi's signal never comes; Settings > Sound shows the check
