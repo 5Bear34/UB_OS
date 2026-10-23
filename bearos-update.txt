@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 1.4.1
+code    = 140100
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 4798504
+sha256  = 6b9b5ac41ecd2954e5ed90ea9381d6cb444c60f899ad7d98dd1fda2239336a61
+notes   = Battery: a thorough check, and the PiSugar 2 Plus's own percentages and charger
