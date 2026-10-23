@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 1.1.2
+code    = 110200
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 4695960
+sha256  = a8f253c105af6a71c15a463e64140d4b5931f4a8254d98a3c43ab9ec266db064
+notes   = 1.1.2: Sleep (like a Mac), the pointer glitch over buttons fixed, lastlog in Terminal
