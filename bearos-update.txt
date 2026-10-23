@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.1
-code    = 110000
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4690344
-sha256  = ad5d2d28787f5b726047941f819cb4e7719f36f8f13989e5df1cc505dd9c232e
-notes   = 1.1: the USB app (everything plugged in), USB drives in Files, the Code editor
