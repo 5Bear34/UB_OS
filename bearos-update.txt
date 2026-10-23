@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.1.3
-code    = 110300
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4696008
-sha256  = 09879519828565e166396445c434221494dd4abd6eaad1039c88ab6a32b9388b
-notes   = 1.1.3: the Brightness slider works on HDMI screens (the picture is dimmed)
