@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 1.2
+code    = 120000
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 4713016
+sha256  = 26987eeb5d1298fbf3d734ce83deea60d38b04018d78ce8a568b0f9e8affdd79
+notes   = 1.2: choose the dock's apps, icons on the desktop, Settings > Wallpaper with every picture on the card
