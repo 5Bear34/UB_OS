@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.4
-code    = 140000
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4795496
-sha256  = 7498e3985e79d28d13dd40f45d74fa33dd785731a7929728d298c2b0c3ebbdf7
-notes   = The YouTube app: search, Home, channels, subscriptions, up next, quality 144p-1080p
