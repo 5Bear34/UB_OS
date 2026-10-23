@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 1.3
-code    = 130000
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4734456
-sha256  = e036ff5622c6559631499898d58f4b14dbecaf148c08edfe6c6db44f77b79a28
-notes   = Control Center: system info, safe speed-up (tried once first), hardware controls
