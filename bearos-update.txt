@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 2.0.3
+code    = 200300
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 4976376
+sha256  = d79f6c8bbe49b50dedb33ef49e18179322ae130fc3afc58cdfc0dd4b6f8eb50e
+notes   = BearOS 2.0.3: the sound is kept running (silence) while nothing plays, so the headphone jack does not tick.
