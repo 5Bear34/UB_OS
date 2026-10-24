@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 2.0.1
-code    = 200100
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4976216
-sha256  = e4b7c016a1f0b585729f24c6ed29047e185bbcb6969f3bfd87a470df74eb49d8
-notes   = BearOS 2.0.1: the desktop sounds no longer hold a stuck sound output, so Test sound works again.
