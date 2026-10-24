@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 2.0.2
+code    = 200200
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 4976216
+sha256  = a7546e747915f136f07ab13ad6f2bc965f571fa76122f6e01459c2079fbb325e
+notes   = BearOS 2.0.2: sound fixed - BearOS read the sound queue's count backwards and never sent any sound.
