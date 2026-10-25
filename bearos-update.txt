@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 2.3.2
-code    = 230200
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 5172032
-sha256  = 5b48a882d0d068eeeebfa5f69cc0f7a6b6100c179ffab7b63e63d34dfcc0d392
-notes   = BearOS 2.3.2: YouTube videos fetched much faster, and long videos no longer too big
