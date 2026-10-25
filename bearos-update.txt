@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 2.3.1
+code    = 230100
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 5167168
+sha256  = b2117c499e78729ad88f31662f17c49b78f2587c77fb3b663fc655739e89d912
+notes   = BearOS 2.3.1: calmer app icons - the same pictures with less clutter
