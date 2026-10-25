@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 2.1
-code    = 210000
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 4982504
-sha256  = 519415a955fbd88ab45ae33a1b59e2e0b682253599816ea26c2e3ec14bc1b256
-notes   = BearOS 2.1: Apple-style energy work - fewer wake-ups, App Nap, race to idle, Wi-Fi power saving (to try), and Control Center > Energy.
