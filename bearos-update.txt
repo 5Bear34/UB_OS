@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 2.3
+code    = 230000
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 5198400
+sha256  = c184c76b711b2698715a79bd6d0be8213d879ef63cd85c688717d8d6c9d6a020
+notes   = BearOS 2.3: new detailed app icons (Detailed, Neon, Classic) and widgets you can choose, order and style
