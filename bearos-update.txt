@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 2.3.3
-code    = 230300
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 5174256
-sha256  = ae300acbe5c3a35467bed80b2b7cb89716650b579f2f1c2551b7ac1713250b11
-notes   = BearOS 2.3.3: the dock is smooth again under the pointer
