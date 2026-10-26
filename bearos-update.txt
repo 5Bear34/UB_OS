@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 2.5
+code    = 250000
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 5290048
+sha256  = b66db0c9df6ee221baf52a53b4bfbb4f099a6035227e9f6fe343e0145c747f9b
+notes   = BearOS 2.5: the Pi downloads the Content Pack itself - Settings > Content Pack, or the button in Library, Dictionary, Atlas and Art. It carries on where it was if the Wi-Fi drops.
