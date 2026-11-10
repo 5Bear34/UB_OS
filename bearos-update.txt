@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 3.0.1
+code    = 300100
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 5401008
+sha256  = 1fedbdaebccf4fc92bce560039299cda6f54485d4c616adaae846b7e2ff2e0e2
+notes   = 3.0.1: the sound back to 2.9's; the clearer sound is an experimental switch (off); gaps in the sound counted
