@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 3.0
-code    = 300000
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 5400416
-sha256  = b1957fd08764065e16071c8b44639a900202b62b1eb008873a5b9271e864ba9c
-notes   = 3.0: full speed while videos, pages and copies load; clearer sound from the headphone jack (4x + noise shaping)
