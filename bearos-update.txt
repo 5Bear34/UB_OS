@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 2.8
-code    = 280000
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 5390688
-sha256  = e35dfca79853bb9afbadb0cfe015935fa80b009a6e3e35c6591222ae778e051b
-notes   = 2.8: the CUBS app - type questions to CUBS on your PC, see and control your 3D printers and lights
