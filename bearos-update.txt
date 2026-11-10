@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 2.9
-code    = 290000
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 5395584
-sha256  = a08b07feb1c2470e6b9e60f16adaa714d486c4fb574a9cdcbc803838e7d3c198
-notes   = 2.9: YouTube starts after the first few seconds instead of the whole video; HE-AAC sound plays at the right speed
