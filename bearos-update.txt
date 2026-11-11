@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 3.1
+code    = 310000
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 5947200
+sha256  = fa70aada868cb8b56c31807d202092dc05955dfbe2d1551f60216cb3c90f2a5a
+notes   = 3.1: My Computer - your computer in 3D, with bubbles and settings for each part
