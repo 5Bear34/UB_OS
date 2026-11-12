@@ -1,7 +1,0 @@
-# BearOS update list - read by Settings, Software Update
-version = 3.2
-code    = 320000
-url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
-size    = 5965480
-sha256  = 308e6614d36321c630bd14184c392cf779cb3e44692aea9f17b8925ff8a6395a
-notes   = BearOS 3.2: highlight/copy/paste with the mouse in every text box, right-click menus (text, desktop, dock, title bar), double-click title to maximise, Alt+F4, Terminal copy.
