@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 3.3
+code    = 330000
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 5986280
+sha256  = 549d56c4974b9fc5d2edd676e48b03c82eb879db994bcbe62b690c3b86e27683
+notes   = BearOS 3.3: Grizzly - songs and videos in one player (replaces Music; plays video files); the Launchpad in pages that fit the screen.
