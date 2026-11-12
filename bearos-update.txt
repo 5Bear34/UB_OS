@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 3.4
+code    = 340000
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 5998792
+sha256  = 4fc5822f75d599dae28f2f8de9c496231a7019de4e41951a692cdf930945bf0f
+notes   = BearOS 3.4: Grizzly video thumbnails (with length); speaker protection - deep bass cut and a smooth peak limiter so loud parts no longer go muffled.
