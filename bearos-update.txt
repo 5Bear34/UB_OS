@@ -1,0 +1,7 @@
+# BearOS update list - read by Settings, Software Update
+version = 3.3.1
+code    = 330100
+url     = https://raw.githubusercontent.com/5Bear34/UB_OS/main/kernel8-rpi4.img
+size    = 5988712
+sha256  = 43b771470f6cfbca8dd52e3eb29b0c37c65bd5c99b5061ad00b53df14173bffe
+notes   = BearOS 3.3.1: real full screen - videos fill the whole screen (no window frame, top bar or dock); Esc comes back out; F11 for any window.
